@@ -1,10 +1,10 @@
-# 🏗 BuildingConnected Automation with OTP Handling
+BuildingConnected Automation with OTP Handling
 
 This project automates the login and data extraction process from [BuildingConnected](https://app.buildingconnected.com) using **Selenium WebDriver**, **IMAP (Gmail)** for OTP retrieval, and **Requests** for authenticated API calls.
 
 ---
 
-## 🚀 Features
+Features
 
 - Automates login to BuildingConnected (supports Autodesk SSO).
 - Dynamically retrieves and inputs OTP sent to Gmail.
@@ -13,7 +13,7 @@ This project automates the login and data extraction process from [BuildingConne
 
 ---
 
-## 🧠 How It Works
+How It Works
 
 ### 1. **Selenium Login Automation**
 
